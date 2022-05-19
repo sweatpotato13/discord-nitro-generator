@@ -64,13 +64,16 @@
 
 ### Built With
 
-* [docker](https://www.docker.com/)
+* [Node.js](https://nodejs.org)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
 <!-- GETTING STARTED -->
 ## Getting Started
+
+<img src="https://i.imgur.com/q817W1R.png" alt="Logo">
+
 
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
